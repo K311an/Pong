@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Simple Pong</title>
+  <style>
+    canvas {
+      background: #000;
+      display: block;
+      margin: 0 auto;
+    }
+  </style>
+</head>
+<body>
+  <canvas id="pong" width="800" height="400"></canvas>
+  <script src="pong.js"></script>
+</body>
+</html>
